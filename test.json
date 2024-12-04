@@ -1,0 +1,11 @@
+[
+    {
+        "id": "fd0c40e8-b23a-11ef-a362-50c2e80b7922",
+        "title": "Test Task 1",
+        "description": "Test Description 1",
+        "category": "Работа",
+        "due_date": "2024-12-09",
+        "priority": "Высокий",
+        "is_completed": false
+    }
+]

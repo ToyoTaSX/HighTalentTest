@@ -1,0 +1,137 @@
+[
+    {
+        "id": "f0460c89-b239-11ef-a1a1-50c2e80b7922",
+        "title": "Название 0",
+        "description": "Описание 0",
+        "category": "Личное",
+        "due_date": "2024-12-13",
+        "priority": "Низкий",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c8a-b239-11ef-99c9-50c2e80b7922",
+        "title": "Название 1",
+        "description": "Описание 1",
+        "category": "Работа",
+        "due_date": "2024-12-16",
+        "priority": "Средний",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c8b-b239-11ef-93b8-50c2e80b7922",
+        "title": "Название 2",
+        "description": "Описание 2",
+        "category": "Личное",
+        "due_date": "2024-12-08",
+        "priority": "Низкий",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c8c-b239-11ef-93bc-50c2e80b7922",
+        "title": "Название 3",
+        "description": "Описание 3",
+        "category": "Личное",
+        "due_date": "2024-12-15",
+        "priority": "Высокий",
+        "is_completed": true
+    },
+    {
+        "id": "f0460c8d-b239-11ef-81cc-50c2e80b7922",
+        "title": "Название 4",
+        "description": "Описание 4",
+        "category": "Личное",
+        "due_date": "2024-12-17",
+        "priority": "Низкий",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c8e-b239-11ef-815d-50c2e80b7922",
+        "title": "Название 5",
+        "description": "Описание 5",
+        "category": "Личное",
+        "due_date": "2024-12-06",
+        "priority": "Высокий",
+        "is_completed": true
+    },
+    {
+        "id": "f0460c8f-b239-11ef-9a7b-50c2e80b7922",
+        "title": "Название 6",
+        "description": "Описание 6",
+        "category": "Личное",
+        "due_date": "2024-12-16",
+        "priority": "Низкий",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c90-b239-11ef-be55-50c2e80b7922",
+        "title": "Название 7",
+        "description": "Описание 7",
+        "category": "Учеба",
+        "due_date": "2024-12-07",
+        "priority": "Высокий",
+        "is_completed": true
+    },
+    {
+        "id": "f0460c91-b239-11ef-b634-50c2e80b7922",
+        "title": "Название 8",
+        "description": "Описание 8",
+        "category": "Работа",
+        "due_date": "2024-12-16",
+        "priority": "Низкий",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c92-b239-11ef-ab09-50c2e80b7922",
+        "title": "Название 9",
+        "description": "Описание 9",
+        "category": "Учеба",
+        "due_date": "2024-12-15",
+        "priority": "Средний",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c93-b239-11ef-96a1-50c2e80b7922",
+        "title": "Название 10",
+        "description": "Описание 10",
+        "category": "Личное",
+        "due_date": "2024-12-12",
+        "priority": "Низкий",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c94-b239-11ef-b1fd-50c2e80b7922",
+        "title": "Название 11",
+        "description": "Описание 11",
+        "category": "Личное",
+        "due_date": "2024-12-15",
+        "priority": "Средний",
+        "is_completed": true
+    },
+    {
+        "id": "f0460c95-b239-11ef-868f-50c2e80b7922",
+        "title": "Название 12",
+        "description": "Описание 12",
+        "category": "Работа",
+        "due_date": "2024-12-16",
+        "priority": "Низкий",
+        "is_completed": false
+    },
+    {
+        "id": "f0460c96-b239-11ef-9514-50c2e80b7922",
+        "title": "Название 13",
+        "description": "Описание 13",
+        "category": "Работа",
+        "due_date": "2024-12-07",
+        "priority": "Низкий",
+        "is_completed": true
+    },
+    {
+        "id": "f0460c97-b239-11ef-aba1-50c2e80b7922",
+        "title": "Название 14",
+        "description": "Описание 14",
+        "category": "Учеба",
+        "due_date": "2024-12-10",
+        "priority": "Высокий",
+        "is_completed": false
+    }
+]
